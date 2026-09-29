@@ -5,8 +5,7 @@
     <string name="shizuku_permission_denied">تم رفض إذن Shizuku، امنح الإذن يدويًا</string>
     <string name="shizuku_not_running">Shizuku لا يعمل</string>
     <string name="shizuku_not_installed">Shizuku غير مثبت</string>
-    <string name="su_not_in_path">الأمر 'su' غير موجود أو لا يعمل بشكل صحيح</string>
-    <string name="daemon_not_started">فشل تشغيل الخدمة</string>
+    <string name="su_not_in_path">الأمر su غير موجود أو لا يعمل بشكل صحيح</string>    <string name="daemon_not_started">فشل تشغيل الخدمة</string>
     <string name="starting_daemon">جارٍ تشغيل الخدمة…</string>
     <string name="apply">تطبيق</string>
     <string name="cancel">إلغاء</string>
@@ -141,8 +140,7 @@
     <string name="sort_by_name">الترتيب حسب الاسم (أ-ي)</string>
     <string name="refresh">تحديث</string>
     <string name="terminate">إنهاء؟</string>
-    <string name="terminate_confirm">هل أنت متأكد أنك تريد إنهاء العملية '%s'؟</string>
-    <string name="filters">عوامل التصفية</string>
+    <string name="terminate_confirm">هل أنت متأكد أنك تريد إنهاء العملية؟</string>    <string name="filters">عوامل التصفية</string>
     <string name="sort">ترتيب</string>
     <string name="unknown">غير معروف</string>
     <string name="go_back">رجوع</string>
